@@ -1,8 +1,8 @@
 import java.util.Scanner;
 class Float {
 public static void main(String[] args) {
-System.out.println("Enter the first number:");
 Scanner sc = new Scanner(System.in);
+System.out.println("Enter the first number:");
 float n1 = sc.nextFloat();
 System.out.println("Enter the second number:");
 float n2 = sc.nextFloat();
